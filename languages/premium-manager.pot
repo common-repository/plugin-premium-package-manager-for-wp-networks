@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-11 14:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ra-menu-manager.php:24 ra-menu-manager.php:47
+msgid "Manage Menus"
+msgstr ""
+
+#: ra-menu-manager.php:40
+msgid "Menus Updated"
+msgstr ""
+
+#: ra-menu-manager.php:43
+msgid "Menus Cleared"
+msgstr ""
+
+#: ra-menu-manager.php:48 lib/class.post-type.php:183
+msgid "Checked Menus are not shown to Site Admins"
+msgstr ""
+
+#: ra-menu-manager.php:50
+msgid "Update"
+msgstr ""
+
+#: ra-menu-manager.php:51
+#, php-format
+msgid "Reset Default Menus for %s"
+msgstr ""
+
+#: ra-menu-manager.php:53
+msgid "Show all menus on this site"
+msgstr ""
+
+#: ra-plugin-manager.php:37
+msgid "Hide this plugin on the site plugin screens"
+msgstr ""
+
+#: ra-plugin-manager.php:37
+msgid "Make invisible"
+msgstr ""
+
+#: ra-plugin-manager.php:39
+msgid "Show this plugin on the site plugin screens"
+msgstr ""
+
+#: ra-plugin-manager.php:39
+msgid "Make visible"
+msgstr ""
+
+#: lib/class.cron.php:174
+#, php-format
+msgid ""
+"Check out our <a href=\"%s\">Upgrades</a> for more features and "
+"enhancements. <a href=\"%s\">Dismiss</a>"
+msgstr ""
+
+#: lib/class.cron.php:199
+#, php-format
+msgid ""
+"Your <a href=\"%s\">%s</a> package has expired. <a href=\"%s\">Dismiss</a>"
+msgstr ""
+
+#: lib/class.cron.php:219 lib/class.packages.php:99 lib/class.packages.php:102
+msgid "My Account"
+msgstr ""
+
+#: lib/class.cron.php:221
+msgid "Upgrade Account"
+msgstr ""
+
+#: lib/class.packages.php:115
+msgid "You don't have permission to access this screen!"
+msgstr ""
+
+#: lib/class.packages.php:119
+msgid "Update Purchase Packages"
+msgstr ""
+
+#: lib/class.packages.php:121
+#, php-format
+msgid "%d Column"
+msgstr ""
+
+#: lib/class.packages.php:198
+msgid "Proceed to Checkout &raquo;"
+msgstr ""
+
+#: lib/class.packages.php:358 lib/class.post-type.php:34
+#: lib/class.post-type.php:77
+msgid "Premium Packages"
+msgstr ""
+
+#: lib/class.packages.php:394
+#, php-format
+msgid "<a href=\"%s\">Reprocess Package</a>"
+msgstr ""
+
+#: lib/class.packages.php:407
+#, php-format
+msgid "Active, expires on %s"
+msgstr ""
+
+#: lib/class.packages.php:408
+#, php-format
+msgid "Expired on %s"
+msgstr ""
+
+#: lib/class.packages.php:409
+msgid "Process pending"
+msgstr ""
+
+#: lib/class.packages.php:410
+msgid "Update pending"
+msgstr ""
+
+#: lib/class.post-type.php:35
+msgid "Premium Package"
+msgstr ""
+
+#: lib/class.post-type.php:68
+msgid "Premium"
+msgstr ""
+
+#: lib/class.post-type.php:92
+msgid "Attributes"
+msgstr ""
+
+#: lib/class.post-type.php:93
+msgid "eShop Options"
+msgstr ""
+
+#: lib/class.post-type.php:94
+msgid "Account Upgrade"
+msgstr ""
+
+#: lib/class.post-type.php:95
+msgid "Package Menus"
+msgstr ""
+
+#: lib/class.post-type.php:96
+msgid "Package Plugins"
+msgstr ""
+
+#: lib/class.post-type.php:97
+msgid "Package Themes"
+msgstr ""
+
+#: lib/class.post-type.php:101 lib/class.post-type.php:102
+msgid "Display Order"
+msgstr ""
+
+#: lib/class.post-type.php:107
+msgid "Increase media space with this package to"
+msgstr ""
+
+#: lib/class.post-type.php:122
+msgid "eShop options not set"
+msgstr ""
+
+#: lib/class.post-type.php:129
+#, php-format
+msgid "Option %d package length"
+msgstr ""
+
+#: lib/class.post-type.php:133
+msgid "Days"
+msgstr ""
+
+#: lib/class.post-type.php:133
+msgid "Months"
+msgstr ""
+
+#: lib/class.post-type.php:133
+msgid "Years"
+msgstr ""
+
+#: lib/class.post-type.php:144
+#, php-format
+msgid "<a href=\"%s\">Activate</a> the plugin manager to use this feature"
+msgstr ""
+
+#: lib/class.post-type.php:147
+msgid "Plugins to activate with this package"
+msgstr ""
+
+#: lib/class.post-type.php:162
+msgid "Themes to enable with this package"
+msgstr ""
+
+#: lib/class.post-type.php:179
+#, php-format
+msgid "<a href=\"%s\">Activate</a> the menu manager to use this feature"
+msgstr ""
+
+#: lib/class.post-type.php:182
+msgid "Menus to enable with this package"
+msgstr ""

@@ -1,0 +1,13 @@
+/* CSS for the menu manager plugin */
+#ra-menu-manager ul li, #pkgmenudiv ul li {
+	margin: 10px 20px;
+	clear: left;
+}
+#ra-menu-manager ul li ul, #pkgmenudiv ul li ul {
+	margin-left: 40px;
+}
+#ra-menu-manager ul li li, #pkgmenudiv ul li li {
+	float: left;
+	clear: none;
+	margin: 0 40px 0 0;
+}
